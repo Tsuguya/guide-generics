@@ -1,0 +1,8 @@
+{
+    "name": "tsuguya/guide-generics",
+    "autoload": {
+        "psr-4": {
+            "Tsuguya\\GuideGenerics\\": "src/"
+        }
+    }
+}
